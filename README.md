@@ -3,7 +3,7 @@
 <p align="center">
     Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. 
     <br/>
-    <a href="https://github.com/maykbrito/devlinks/blob/main/.github/preview.jpg?raw=true">Estude esse projeto em formato de vídeo clicando aqui.</a>
+    <a href="./assets/logo.jpg">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">

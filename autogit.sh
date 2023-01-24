@@ -1,4 +1,4 @@
 git add .
-git commit -m "add -> outros docs"
+git commit -m "problema -> logo nao visualizada"
 git push -u origin main
 git status
