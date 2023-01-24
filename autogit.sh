@@ -1,4 +1,4 @@
 git add .
-git commit -m "prox. aula -> Abrindo o projeto na WEB"
+git commit -m "prox. aula -> Adicionando o arquivo CSS"
 git push -u origin main
 git status
