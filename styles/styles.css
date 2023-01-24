@@ -1,0 +1,20 @@
+header {
+    border: 2px solid red;
+    padding: 60px;
+}
+
+h1 {
+    border: 1px solid green;
+    display: inline;
+}
+
+h2 {
+    border: 1px solid blue;
+    display: inline-block;
+    font-family: arial, helvetica, sans-serif;
+}
+
+#id-span {
+    border: 1px solid purple;
+    display: block;
+}
