@@ -1,3 +1,14 @@
+body {
+    /* 
+    background-image: url(../assets/background/bg-dark-web.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    */
+
+    background: url(../assets/background/bg-dark-web.png) no-repeat center/cover;
+}
+
 header {
     border: 2px solid red;
     padding: 24px;
