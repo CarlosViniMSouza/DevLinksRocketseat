@@ -1,14 +1,24 @@
 # Módulo 03 - HTML e CSS
 
-Chegou o momento de aprender as tecnologias fundamentais do desenvolvimento WEB. 
+Chegou o momento de aprender as tecnologias fundamentais do desenvolvimento WEB.
 
-O que é Hypertext Markup Language (HTML) e Cascading Stylesheet (CSS) e por que essas duas linguagens fazem parte da base da WEB. 
+<br>
 
-Neste módulo nós iremos entender conceitos de maneira prática e sairemos deste módulo com mais de 90% do projeto concluído. 
+O que é Hypertext Markup Language (HTML) e Cascading Stylesheet (CSS) e por que essas duas linguagens fazem parte da base da WEB.
 
-Assim que acabar esse módulo, você terá aplicado conhecimentos técnicos dos fundamentos de HTML e CSS que são mais demandados no dia a dia do mercado de trabalho. 
+<br>
+
+Neste módulo nós iremos entender conceitos de maneira prática e sairemos deste módulo com mais de 90% do projeto concluído.
+
+<br>
+
+Assim que acabar esse módulo, você terá aplicado conhecimentos técnicos dos fundamentos de HTML e CSS que são mais demandados no dia a dia do mercado de trabalho.
+
+<br>
 
 Você vai gostar do que vai construir nessa etapa do curso!
+
+<br>
 
 ---
 
@@ -33,7 +43,7 @@ Você pode baixar a pasta `projeto` que criamos em aula, e que contém os dois a
 
 </aside>
 
-### Ou,
+## **Ou**
 
 Abaixo segue os códigos para você copiar e colar nos arquivos, conforme visto em aula
 
