@@ -1,12 +1,16 @@
-body {
-    /* 
-    background-image: url(../assets/background/bg-dark-web.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover; 
-    */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+body {
     background: url(../assets/background/bg-dark-web.png) no-repeat center/cover;
+}
+
+body * {
+    font-family: 'Inter', sans-serif;
+    color: #fff;
 }
 
 #container {
@@ -21,4 +25,9 @@ body {
 
 #profile img {
     width: 120px;
+}
+
+#profile p {
+    line-weight: 24px;
+    font-weight: 500;
 }

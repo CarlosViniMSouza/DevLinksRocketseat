@@ -1,4 +1,4 @@
 git add .
-git commit -m "modules -> Adicionando fontes e estilos aos textos"
+git commit -m "modules -> Entendendo margin e padding"
 git push -u origin main
 git status
