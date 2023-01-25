@@ -11,7 +11,14 @@ body {
 
 #container {
     border: 1px solid white;
-    height: 720px;
-    width: 360px;
     margin: auto;
+    width: 360px;
+}
+
+#profile {
+    text-align: center;
+}
+
+#profile img {
+    width: 120px;
 }
