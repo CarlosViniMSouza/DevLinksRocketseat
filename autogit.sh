@@ -1,4 +1,4 @@
 git add .
-git commit -m "modules -> Entendendo margin e padding"
+git commit -m "bugs -> resolvidos | Hora do deploy"
 git push -u origin main
 git status
